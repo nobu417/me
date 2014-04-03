@@ -1,7 +1,7 @@
 サトウ ノブユキ
 ======
 
-![](https://github.com/nobu417/myinfo/blob/master/mypic.jpg)
+![](https://raw.githubusercontent.com/nobu417/myinfo/master/mypic.jpg)
 
 1984年4月17日、新潟県新潟市 (現中央区) 生まれ。武蔵野美術大学造形学部デザイン情報学科中退。
 
